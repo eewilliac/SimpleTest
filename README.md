@@ -1,2 +1,1 @@
-# SimpleTest
-A simple Repository for Practice
+This is a simple test.
